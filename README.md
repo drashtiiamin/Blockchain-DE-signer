@@ -3,13 +3,13 @@ Blockchain Semester Final Project
 
 Project link: 
 
-Team Members:
-Drashti Amin cwid: 885195776 drashti14920@csu.fullerton.edu
-Disha Patel cwid: 88519594 disha81100@csu.fullerton.edu
-Manan Gandhi cwid: 885195719 manangandhi8600@csu.fullerton.edu
-Manan Patel cwid:  @csu.fullerton.edu
+#Team Members:
+Drashti Amin cwid: 885195776 drashti14920@csu.fullerton.edu.   
+Disha Patel cwid: 88519594 disha81100@csu.fullerton.edu.  
+Manan Gandhi cwid: 885195719 manangandhi8600@csu.fullerton.edu.  
+Manan Patel cwid:  @csu.fullerton.edu.  
 
-Updated List of Improvements:
+#Updated List of Improvements:
 
 1. From Scratch (Base of Backend) 
 2. Adding NFT Contract
